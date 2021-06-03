@@ -23,4 +23,3 @@ This project implements tv script generation model using RNN in pytorch as part 
 >puddy: i think you know, we could be honest.
 >
 >george: i don't think it was a new day. it's a wealthy weapon.
-
